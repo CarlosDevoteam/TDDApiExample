@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ApiTestBase/bin/Debug/net7.0
+/ApiTestBase/obj
+/ApiTestBaseTests/bin/Debug/net7.0
+/ApiTestBaseTests/obj
+/ApiTestBase/appsettings.Development.json
